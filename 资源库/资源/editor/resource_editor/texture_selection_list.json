@@ -1,0 +1,79 @@
+{
+    "list": [
+        {
+            "id": "blocks",
+            "name": "方块",
+            "url": ""
+        },
+        {
+            "id": "items",
+            "name": "物品",
+            "url": ""
+        },
+        {
+            "id": "gui",
+            "name": "图形界面",
+            "url": ""
+        },
+        {
+            "id": "ui",
+            "name": "用户界面",
+            "url": ""
+        },
+        {
+            "id": "painting",
+            "name": "画",
+            "url": ""
+        },
+        {
+            "id": "misc",
+            "name": "杂项",
+            "url": ""
+        },
+        {
+            "id": "map",
+            "name": "地图",
+            "url": ""
+        },
+        {
+            "id": "environment",
+            "name": "环境",
+            "url": ""
+        },
+        {
+            "id": "colormap",
+            "name": "群系",
+            "url": ""
+        },
+        {
+            "id": "particle",
+            "name": "粒子",
+            "url": ""
+        },
+        {
+            "id": "entity",
+            "name": "实体",
+            "url": ""
+        },
+        {
+            "id": "item",
+            "name": "项目",
+            "url": ""
+        },
+        {
+            "id": "models",
+            "name": "模型",
+            "url": ""
+        },
+        {
+            "id": "persona_thumbnails",
+            "name": "人物角色缩略图",
+            "url": ""
+        },
+        {
+            "id": "trims",
+            "name": "修剪",
+            "url": ""
+        }
+    ]
+}

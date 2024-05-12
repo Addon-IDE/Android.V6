@@ -1,0 +1,10 @@
+{
+    "name": {
+        "category": "项目分类选择",
+        "food_use_animation": "食物使用动画"
+    },
+    "list": [
+        "food_use_animation",
+        "category"
+    ]
+}

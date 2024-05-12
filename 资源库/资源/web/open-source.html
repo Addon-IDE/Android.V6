@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no">
+        <title>开源相关</title>
+        <link rel="stylesheet" href="./css/tiecode_widget.css">
+    </head>
+    <body ontouchstart>
+        <div style="padding: 8px;">
+            <script type="text/javascript">
+        function writeItem(item) {
+            document.write(`
+                <div class="tie-card" onclick="openUrl(${item.url})">
+                    <div class="tie-card-cnt">
+                        <div class="tie-card-header">
+                            <div class="tie-card-header-title">
+                                <strong>${item.title}</strong>
+                            </div>
+                        </div>
+                        <div class="tie-card-content">${item.description}</div>
+                        <div class="tie-card-action">
+                            <p class="float-left">${item.groupId}</p>
+                            <p class="float-right">${item.author}</p>
+                        </div>
+                    </div>
+                </div>`)
+        }
+        let items = [
+             {
+                title: "DialogX",
+                description: "DialogX对话框组件库，更加方便易用，可自定义程度更高，扩展性更强，轻松实现各种对话框、菜单和提示效果，更有Material You、iOS、MIUI等主题扩展可选",
+                groupId: "https://github.com/kongzue/DialogX",
+                author: "kongzue",
+                url: ""
+             },
+             {
+                title: "XPopup",
+                description: "XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！",
+                groupId: "https://github.com/li-xiaojun/XPopup",
+                author: "li-xiaojun",
+                url: ""
+             },
+             {
+                title: "WebSocket",
+                description: "This repository contains a barebones WebSocket server and client implementation written in 100% Java. The underlying classes are implemented java.nio, which allows for a non-blocking event-driven model (similar to the WebSocket API for web browsers).",
+                groupId: "https://github.com/TooTallNate/Java-WebSocket",
+                author: "marci4",
+                url: ""
+             },
+             {
+                title: "sora-editor",
+                description: "sora-editor是一款高效的安卓代码编辑器",
+                groupId: "https://github.com/Rosemoe/sora-editor",
+                author: "Rosemoe",
+                url: ""
+             },
+             {
+                title: "antlr4",
+                description: "ANTLR （另一个语言识别工具）是一个强大的解析器生成器，用于读取、处理、执行或翻译结构化文本或二进制文件。",
+                groupId: "https://github.com/antlr/antlr4",
+                author: "angrykoala",
+                url: ""
+             }
+        ]
+        for (let item of items) {
+            writeItem(item)
+        }
+    </script>
+        </div>
+        <script type="text/javascript" src="./js/tiecode_widget.js"></script>
+        <script type="text/javascript">
+    function openUrl(url) {
+        window.open(url);
+    }
+</script>
+    </body>
+</html>

@@ -1,0 +1,49 @@
+{
+  "format_version": "1.10.0",
+  "animations": {
+    "animation.default.first_person": {
+      "loop": true,
+      "bones": {
+        "rightitem": {
+          "position": [
+            0,
+            13,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "scale": [
+            0.5,
+            0.5,
+            0.5
+          ]
+        }
+      }
+    },
+    "animation.default.third_person": {
+      "loop": true,
+      "bones": {
+        "rightitem": {
+          "position": [
+            0,
+            20,
+            0
+          ],
+          "rotation": [
+            60,
+            0,
+            0
+          ],
+          "scale": [
+            0.5,
+            0.5,
+            0.5
+          ]
+        }
+      }
+    }
+  }
+}

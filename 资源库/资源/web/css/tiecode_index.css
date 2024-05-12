@@ -1,0 +1,276 @@
+body {
+    background-color: white;
+    margin: 0
+}
+
+.header {
+    background-color: #f5f6f8;
+    text-align: center
+}
+
+.header-title {
+    padding: 50px 16px 16px 16px;
+    font-size: 25px;
+    color: #080e29;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.header-subtitle {
+    padding: 0 16px 0 16px;
+    font-size: 16px;
+    color: #717484;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.header .tie-button {
+    margin-top: 20px;
+    border-radius: 50px;
+    width: 100px
+}
+
+.header-slogan {
+    background-image: url('../img/tiecode_slogan.png');
+    height: 180px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-left: 20px;
+    position: absolute;
+    left: 0;
+    width: -webkit-fill-available;
+    margin-top: -150px;
+    pointer-events: none;
+    opacity: .1
+}
+
+.header-graph {
+    background-image: url('../img/tiecode_top_cover_graph.png');
+    height: 60px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    background-position: right
+}
+
+.details-item {
+    padding: 26px
+}
+
+.phone-template {
+    background-image: url('../img/phone_template.png');
+    height: 259px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-color: white;
+    width: 199px;
+    border-radius: 28px 28px 0 0
+}
+
+.phone-template img {
+    width: 180px;
+    height: auto;
+    margin: 19px 0 0 9px
+}
+
+.details-item.details-float-right {
+    display: flex;
+    flex-direction: row-reverse
+}
+
+.details-text {
+    position: absolute;
+    display: flex;
+    margin-top: -250px;
+    margin-left: 224px;
+    -webkit-writing-mode: vertical-lr;
+    flex-direction: column;
+    height: max-content;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.details-float-right .details-text {
+    margin-top: 0;
+    margin-right: 224px
+}
+
+.details-txt-tle {
+    color: #f44336;
+    margin: 0;
+    font-size: 20px
+}
+
+.details-txt-cont {
+    margin: 0 20px 0 16px;
+    color: #717484
+}
+
+.other {
+    padding: 0 18px 20px 18px
+}
+
+.more-title,
+.thanks-title {
+    position: relative;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 20px 0 15px 0;
+    font-weight: 500;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    color: #f44336;
+    font-size: 20px
+}
+
+.more-title {
+	padding-top: 0
+}
+
+.more-grid,
+.thanks-grid {
+    display: grid;
+    grid-template-columns: 48% 48%;
+    grid-gap: 10px
+}
+
+.more-grid .tie-grid-item,
+.thanks-grid .tie-grid-item {
+	padding: 8px 6px;
+	background-color: transparent;
+	border: 0.1px solid #f7f8f9
+}
+
+.more-grid .tie-grid-icon,
+.thanks-grid .tie-grid-icon {
+	height: 30px;
+    width: 30px;
+    margin-right: 8px
+}
+
+.more-grid .tie-grid-desc,
+.thanks-grid .tie-grid-desc {
+	line-height: 15px
+}
+
+.more-grid .tie-grid-name,
+.thanks-grid .tie-grid-name {
+	font-size: 13px;
+    width: fit-content
+}
+
+.more-grid .tie-grid-info,
+.thanks-grid .tie-grid-info {
+	margin-top: 3px;
+    width: fit-content
+}
+
+@media screen and (min-width:599px) {
+    .header .tie-button {
+        width: 120px
+    }
+
+    .header-title {
+        padding: 80px 16px 20px 16px;
+        font-size: 30px
+    }
+
+    .header-subtitle {
+        padding: 0 2px 10px 16px;
+        font-size: 20px
+    }
+
+    .header-slogan {
+        margin-left: 50px;
+        opacity: 1
+    }
+
+    .details {
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        grid-gap: 20px
+    }
+
+    .details-item {
+        padding: 50px 50px 0 50px
+    }
+
+    .details-item.details-float-right {
+        display: block
+    }
+
+    .phone-template {
+        height: 269px;
+        width: 202px
+    }
+
+    .phone-template img {
+        width: 180px;
+        margin: 24px 0 0 11px
+    }
+
+    .details-txt-tle {
+        font-size: 25px
+    }
+
+    .details-text {
+        margin-top: -250px;
+        margin-left: 224px
+    }
+
+    .details-float-right .details-text {
+        margin-top: -250px;
+        left: auto;
+        margin-right: 224px
+    }
+
+    .other {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-gap: 10px;
+        padding: 20px 20px 28px 20px
+    }
+
+    .more-grid,
+	.thanks-grid {
+        grid-template-columns: 19% 19% 19% 19% 19%
+    }
+	
+	.more-title,
+	.thanks-title {
+	    font-size: 22px
+	}
+
+	.more-title {
+        padding-top: 20px
+    }
+	
+	.more-grid .tie-grid-desc,
+	.thanks-grid .tie-grid-desc {
+		line-height: 14px
+	}
+	
+	.more-grid .tie-grid-name,
+    .thanks-grid .tie-grid-name {
+	    font-size: 14px
+    }
+	
+	.more-grid .tie-grid-info,
+    .thanks-grid .tie-grid-info {
+	    margin-top: 5px;
+        transform: scale(0.9)
+    }
+}

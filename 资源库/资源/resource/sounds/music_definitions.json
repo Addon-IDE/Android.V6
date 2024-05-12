@@ -1,0 +1,176 @@
+[
+    {
+        "path": "sounds/music/menu/menu1.ogg"
+    },
+    {
+        "path": "sounds/music/menu/menu2.ogg"
+    },
+    {
+        "path": "sounds/music/menu/menu3.ogg"
+    },
+    {
+        "path": "sounds/music/menu/menu4.ogg"
+    },
+    {
+        "path": "sounds/music/game/wending.ogg"
+    },
+    {
+        "path": "sounds/music/game/stand_tall.ogg"
+    },
+    {
+        "path": "sounds/music/game/piano3.ogg"
+    },
+    {
+        "path": "sounds/music/game/piano2.ogg"
+    },
+    {
+        "path": "sounds/music/game/piano1.ogg"
+    },
+    {
+        "path": "sounds/music/game/one_more_day.ogg"
+    },
+    {
+        "path": "sounds/music/game/nuance2.ogg"
+    },
+    {
+        "path": "sounds/music/game/nuance1.ogg"
+    },
+    {
+        "path": "sounds/music/game/left_to_bloom.ogg"
+    },
+    {
+        "path": "sounds/music/game/infinite_amethyst.ogg"
+    },
+    {
+        "path": "sounds/music/game/hal4.ogg"
+    },
+    {
+        "path": "sounds/music/game/hal3.ogg"
+    },
+    {
+        "path": "sounds/music/game/hal2.ogg"
+    },
+    {
+        "path": "sounds/music/game/hal1.ogg"
+    },
+    {
+        "path": "sounds/music/game/floating_dream.ogg"
+    },
+    {
+        "path": "sounds/music/game/comforting_memories.ogg"
+    },
+    {
+        "path": "sounds/music/game/calm3.ogg"
+    },
+    {
+        "path": "sounds/music/game/calm2.ogg"
+    },
+    {
+        "path": "sounds/music/game/calm1.ogg"
+    },
+    {
+        "path": "sounds/music/game/an_ordinary_day.ogg"
+    },
+    {
+        "path": "sounds/music/game/water/shuniji.ogg"
+    },
+    {
+        "path": "sounds/music/game/water/dragon_fish.ogg"
+    },
+    {
+        "path": "sounds/music/game/water/axolotl.ogg"
+    },
+    {
+        "path": "sounds/music/game/records/ward.ogg"
+    },
+    {
+        "path": "sounds/music/game/records/wait.ogg"
+    },
+    {
+        "path": "sounds/music/game/records/strad.ogg"
+    },
+    {
+        "path": "sounds/music/game/records/stal.ogg"
+    },
+    {
+        "path": "sounds/music/game/records/pigstep_master.ogg"
+    },
+    {
+        "path": "sounds/music/game/records/otherside.ogg"
+    },
+    {
+        "path": "sounds/music/game/records/mellohi.ogg"
+    },
+    {
+        "path": "sounds/music/game/records/mall.ogg"
+    },
+    {
+        "path": "sounds/music/game/records/far.ogg"
+    },
+    {
+        "path": "sounds/music/game/records/chirp.ogg"
+    },
+    {
+        "path": "sounds/music/game/records/cat.ogg"
+    },
+    {
+        "path": "sounds/music/game/records/blocks.ogg"
+    },
+    {
+        "path": "sounds/music/game/records/13.ogg"
+    },
+    {
+        "path": "sounds/music/game/records/11.ogg"
+    },
+    {
+        "path": "sounds/music/game/nether/so_below.ogg"
+    },
+    {
+        "path": "sounds/music/game/nether/rubedo.ogg"
+    },
+    {
+        "path": "sounds/music/game/nether/nether4.ogg"
+    },
+    {
+        "path": "sounds/music/game/nether/nether3.ogg"
+    },
+    {
+        "path": "sounds/music/game/nether/nether2.ogg"
+    },
+    {
+        "path": "sounds/music/game/nether/nether1.ogg"
+    },
+    {
+        "path": "sounds/music/game/nether/chrysopoeia.ogg"
+    },
+    {
+        "path": "sounds/music/game/nether/so_below.ogg"
+    },
+    {
+        "path": "sounds/music/game/end/end.ogg"
+    },
+    {
+        "path": "sounds/music/game/end/credits.ogg"
+    },
+    {
+        "path": "sounds/music/game/end/boss.ogg"
+    },
+    {
+        "path": "sounds/music/game/creative/creative1.ogg"
+    },
+    {
+        "path": "sounds/music/game/creative/creative2.ogg"
+    },
+    {
+        "path": "sounds/music/game/creative/creative3.ogg"
+    },
+    {
+        "path": "sounds/music/game/creative/creative4.ogg"
+    },
+    {
+        "path": "sounds/music/game/creative/creative5.ogg"
+    },
+    {
+        "path": "sounds/music/game/creative/creative6.ogg"
+    }
+]

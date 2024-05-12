@@ -1,0 +1,14 @@
+[
+    {
+        "path": "%sdcard%",
+        "describe": "内部存储"
+    },
+    {
+        "path": "%sdcard%/Addons_Makes",
+        "describe": "软件目录"
+    },
+    {
+        "path": "%sdcard%/Android/data/com.tencent.mobileqq/Tencent/QQfile_recv",
+        "describe": "QQ目录"
+    }
+]

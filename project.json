@@ -1,0 +1,14 @@
+{
+    "app_name": "Addon IDE",
+    "min_sdk": 21,
+    "package": "com.mcyi.mcaddon.make",
+    "version_name": "6.0.0",
+    "project_kind": 0,
+    "icon": "/storage/emulated/0/Minecraft/Addons_Makes/project/nwmwn/resources/textures/blocks/pa_change_me.png",
+    "version_code": 1,
+    "classification_id": "cn.tiecode.android",
+    "target_sdk": 26,
+    "project_name": "Addon Make IDE",
+    "classification": "结绳安卓工程",
+    "app_pkg": "com.mcyi.mcaddon.make"
+}

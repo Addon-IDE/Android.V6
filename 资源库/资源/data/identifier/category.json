@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "identifier/category/nature.png",
+        "name": "自然",
+        "id": "nature"
+    },
+    {
+        "icon": "identifier/category/items.png",
+        "name": "物品",
+        "id": "items"
+    },
+    {
+        "icon": "identifier/category/equipment.png",
+        "name": "装备",
+        "id": "equipment"
+    },
+    {
+        "icon": "identifier/category/construction.png",
+        "name": "建筑",
+        "id": "construction"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "icon": "identifier/food_use_animation/eat.png",
+        "name": "吃",
+        "id": "eat"
+    },
+    {
+        "icon": "identifier/food_use_animation/drink.png",
+        "name": "喝",
+        "id": "drink"
+    }
+]

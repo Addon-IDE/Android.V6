@@ -1,0 +1,26 @@
+[
+    {
+        "id": "air",
+        "name": "空气"
+    },
+    {
+        "id": "water",
+        "name": "水"
+    },
+    {
+        "id": "weather",
+        "name": "天气"
+    },
+    {
+        "id": "lava",
+        "name": "熔岩"
+    },
+    {
+        "id": "lava_resistance",
+        "name": "熔岩阻力"
+    },
+    {
+        "id": "powder_snow",
+        "name": "粉雪"
+    }
+]

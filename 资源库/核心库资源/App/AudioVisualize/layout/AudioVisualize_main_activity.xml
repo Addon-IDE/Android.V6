@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:gravity="center_horizontal"
+	android:clipChildren="false">
+
+	<LinearLayout
+		android:orientation="vertical"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="#333333"
+		android:visibility="gone">
+
+		<LinearLayout
+			android:layout_height="48dp"
+			android:layout_width="match_parent"
+			android:orientation="horizontal"
+			android:gravity="center"
+			android:layout_marginTop="24dp"
+			android:layout_marginLeft="56dp"
+			android:layout_marginRight="56dp">
+
+			<Button
+				android:id="@+id/Rest"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="复位"
+				android:textStyle="bold"
+				android:layout_weight="1.0"/>
+
+			<Button
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:text="暂停"
+				android:textStyle="bold"
+				android:layout_marginLeft="8dp"
+				android:id="@+id/Pause"
+				android:layout_weight="1.0"
+				android:layout_marginRight="8dp"/>
+
+			<Button
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:text="继续"
+				android:textStyle="bold"
+				android:id="@+id/Start"
+				android:layout_weight="1.0"/>
+
+		</LinearLayout>
+
+		<EditText
+			android:layout_height="48dp"
+			android:layout_width="match_parent"
+			android:ems="10"
+			android:layout_marginTop="8dp"
+			android:hint="音频文件路径"
+			android:id="@+id/Path"
+			android:layout_marginBottom="24dp"
+			android:layout_marginLeft="56dp"
+			android:layout_marginRight="56dp"/>
+
+	</LinearLayout>
+	
+	<ListView
+		android:layout_width="match_parent"
+		android:id="@+id/ListView"
+		android:layout_height="match_parent"
+		android:background="#000000"
+		android:divider="@null"
+		android:dividerHeight="0dp"/>
+</LinearLayout>
+

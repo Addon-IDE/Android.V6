@@ -1,0 +1,9 @@
+[
+    {
+        "icon": "default.png",
+        "name": "默认空白模板",
+        "author": "Addon IDE",
+        "describe": "Addon IDE 默认空白模板",
+        "path": "default.zip"
+    }
+]

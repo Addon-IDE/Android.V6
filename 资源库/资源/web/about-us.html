@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no"/>
+    <title>关于我们</title>
+    <link rel="stylesheet" href="./css/tiecode_widget.css"/>
+</head>
+<body ontouchstart>
+<div style="padding: 8px;">
+    <!-- 描述 -->
+    <div class="tie-setting-content">
+        Minecraft是一款沙盒建造游戏，玩家可以在一个三维世界里用各种方块建造或者破坏方块，《Minecraft》所呈现的世界并不是华丽的画面与特效，而是注重在游戏性上面。玩家可以在游戏中的三维空间里创造和破坏游戏里的方块，甚至在多人服务器与单人世界中体验不同的游戏模式，打造精妙绝伦的建筑物，创造物和艺术品。对一般人来说，附加包基本上就是一捆让你改变Minecraft世界运行规则的文件。想要身长八尺的小鸡？当然可以给你！想招募一支身着褶边短裙、听命于你的僵尸猪人大军？怪是够怪的，但当然也可以有！想开发这样的对于新手是困难的，那有没有一款傻瓜式操作就能生成附加包的应用？市面上虽然有这样的软件，但是里面英文晦涩难难懂，有中文也是使用机器翻译，非常的不准确，所以我们决定开发一款更好的附加包生成器，让玩家免去学习那些困难的代码，更快入门，以下是我们的制作团队
+    </div>
+<script type="text/javascript">
+    function writeItem(item) {
+        document.write(`
+            <div class="tie-setting-item tie-setting-item-arrow" onclick="openPage('${item.page}')">
+                <div class="tie-setting-item-icon">
+                    <img src="https://q1.qlogo.cn/headimg_dl?dst_uin=${item.qq}&spec=100"/>
+                </div>
+                <div class="tie-setting-item-content">
+                    <div class="tie-setting-item-title">${item.name}</div>
+                </div>
+                <div class="tie-setting-item-action">
+                    <div class="tie-setting-item-arrow-text"></div>
+                </div>
+            </div>`)
+    }
+    let items = [
+        {name: "Minecraft - 小菜狗", qq: "3457982009", page: "introduction/master.html"},
+         {name: "Minecraft - 阿巴怪", qq: "3143279820", page: "introduction/vice.html"},
+         {name: "Minecraft - 硬核的蛋黄", qq: "188451334", page: "introduction/vice2.html"}
+    ]
+    for(let item of items) {
+        writeItem(item)
+    }
+</script>
+</div>
+<footer class="container-layout-foot">
+    <p>2023/6/15编辑，解释权归<a href="这里是填入官方网站链接">Addon IDE项目团队</a>所有</p>
+</footer>
+</body>
+<script type="text/javascript">
+    function openPage(url) {
+        window.open(url)
+    }
+</script>
+</html>

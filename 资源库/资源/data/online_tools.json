@@ -1,0 +1,439 @@
+{
+    "Tool": [
+        {
+            "icon": "",
+            "name": "Minecraft",
+            "describe": "Minecraft我的世界官方网站",
+            "type": "[官网]",
+            "url": "https://www.minecraft.net"
+        },
+        {
+            "icon": "",
+            "name": "网易我的世界",
+            "describe": "网易我的世界官网",
+            "type": "[官网]",
+            "url": "https://mc.163.com/m"
+        },
+        {
+            "icon": "",
+            "name": "Minecraft Classic",
+            "describe": "Cassic经典原始网页版Minecraft在线游戏",
+            "type": "[官网]",
+            "url": "https://classic.minecraft.net"
+        },
+        {
+            "icon": "",
+            "name": "Mojang Jira",
+            "describe": "Mojang官方Bug反馈/提交建议",
+            "type": "[官网]",
+            "url": "https://bugs.mojang.com/secure/Dashboard.jspa"
+        },
+        {
+            "icon": "",
+            "name": "知乎Minecraft圈",
+            "describe": "知乎MC兴趣圈子",
+            "type": "[社区]",
+            "url": "https://www.zhihu.com/club/1194982261014130688"
+        },
+        {
+            "icon": "",
+            "name": "MCBBS",
+            "describe": "Minecraft中文论坛",
+            "type": "[社区]",
+            "url": "https://www.mcbbs.net"
+        },
+        {
+            "icon": "",
+            "name": "最MC",
+            "describe": "最MC我的世界社区",
+            "type": "[社区]",
+            "url": "http://www.zuimc.com"
+        },
+        {
+            "icon": "",
+            "name": "MineBBS",
+            "describe": "我的世界中文论坛",
+            "type": "[社区]",
+            "url": "https://www.minebbs.com"
+        },
+        {
+            "icon": "",
+            "name": "苦力怕论坛 KLPBBS",
+            "describe": "我的世界苦力怕论坛",
+            "type": "[社区]",
+            "url": "https://klpbbs.com"
+        },
+        {
+            "icon": "",
+            "name": "我的世界小黑论坛",
+            "describe": "Minecraft BL-PineApple BBS",
+            "type": "[社区]",
+            "url": "https://www.blmcpia.com"
+        },
+        {
+            "icon": "",
+            "name": "MCBEBBS",
+            "describe": "有丰富的国内外基岩资源，欢迎您访问交流",
+            "type": "[社区]",
+            "url": "https://mcbebbs.cn"
+        },
+        {
+            "icon": "",
+            "name": "Minecraft Forum",
+            "describe": "Minecraft官方论坛",
+            "type": "[社区]",
+            "url": "https://www.minecraftforum.net"
+        },
+        {
+            "icon": "",
+            "name": "曙光 Minecraft 中文论坛",
+            "describe": "Minecraft中文玩家社区",
+            "type": "[社区]",
+            "url": "https://www.mcdbbs.cn/"
+        },
+        {
+            "icon": "",
+            "name": "深空Aurora社区",
+            "describe": "一个Minecraft中文社区",
+            "type": "[社区]",
+            "url": "https://bbs.aurora-sky.top"
+        },
+        {
+            "icon": "",
+            "name": "MCUTC论坛",
+            "describe": "新的我的世界交流社区",
+            "type": "[社区]",
+            "url": "https://www.mcnav.net"
+        },
+        {
+            "icon": "",
+            "name": "Minecraft-HK",
+            "describe": "我的世界香港社区",
+            "type": "[社区]",
+            "url": "https://www.minecraft-hk.com"
+        },
+        {
+            "icon": "",
+            "name": "MCPE-TW",
+            "describe": "MCPE台湾中文网",
+            "type": "[社区]",
+            "url": "https://forum.mcpe.tw"
+        },
+        {
+            "icon": "",
+            "name": "MC教育版论坛",
+            "describe": "在方块中学习",
+            "type": "[社区]",
+            "url": "https://www.mceebbs.com"
+        },
+        {
+            "icon": "",
+            "name": "Minecraft吧",
+            "describe": "百度minecraft吧",
+            "type": "[社区]",
+            "url": "https://tieba.baidu.com/f?kw=minecraft"
+        },
+        {
+            "icon": "",
+            "name": "CBerGit",
+            "describe": "我的世界命令论坛",
+            "type": "[社区]",
+            "url": "https://cbergit.com/"
+        },
+        {
+            "icon": "",
+            "name": "Nukkit吧",
+            "describe": "百度Nukkit吧",
+            "type": "[社区]",
+            "url": "https://tieba.baidu.com/f?kw=nukkit"
+        },
+        {
+            "icon": "",
+            "name": "Minecraft Wiki",
+            "describe": "Minecraft官方Wiki站",
+            "type": "[百科]",
+            "url": "https://minecraft.fandom.com/wiki/Minecraft_Wiki"
+        },
+        {
+            "icon": "",
+            "name": "我的世界玩家WIKI",
+            "describe": "Bilibili玩家攻略WIKI",
+            "type": "[百科]",
+            "url": "https://wiki.biligame.com/mcplayer"
+        },
+        {
+            "icon": "",
+            "name": "MCMOD",
+            "describe": "Minecraft中文Mod百科",
+            "type": "[百科]",
+            "url": "https://www.mcmod.cn"
+        },
+        {
+            "icon": "",
+            "name": "Minecraft插件百科",
+            "describe": "服务器插件百科Wiki",
+            "type": "[百科]",
+            "url": "https://mineplugin.org"
+        },
+        {
+            "icon": "",
+            "name": "MineWiki",
+            "describe": "MCBE多人游戏百科计划",
+            "type": "[百科]",
+            "url": "https://minewiki.net"
+        },
+        {
+            "icon": "",
+            "name": "基岩版开发Wiki",
+            "describe": "Minecraft基岩版开发WIki",
+            "type": "[百科]",
+            "url": "https://wiki.mcbe-dev.net"
+        },
+        {
+            "icon": "",
+            "name": "FanCraft MC教程站",
+            "describe": "一个普通但不想普通的Minecraft教程站",
+            "type": "[百科]",
+            "url": "https://notification.fancraft.top"
+        },
+        {
+            "icon": "",
+            "name": "Bedrock Wiki",
+            "describe": "一个技术基岩的知识分享网站，包含文档、教程和一般的操作信息。",
+            "type": "[百科]",
+            "url": "https://wiki.bedrock.dev"
+        },
+        {
+            "icon": "",
+            "name": "ViewCB – 我的世界指令百科全书",
+            "describe": "ViewCB - 我的世界基岩版的命令百科全书，为您带来无障碍、易于理解的基岩版指令百科。",
+            "type": "[百科]",
+            "url": "https://viewcb.net"
+        },
+        {
+            "icon": "",
+            "name": "SkinMe",
+            "describe": "规模最大的皮肤站",
+            "type": "[工具]",
+            "url": "http://www.skinme.cc"
+        },
+        {
+            "icon": "",
+            "name": "NameMC",
+            "describe": "用户名历史皮肤查询",
+            "type": "[工具]",
+            "url": "https://namemc.com"
+        },
+        {
+            "icon": "",
+            "name": "ChunkBase",
+            "describe": "区块查询/种子地图",
+            "type": "[工具]",
+            "url": "https://www.chunkbase.com/apps"
+        },
+        {
+            "icon": "",
+            "name": "NovaSkin",
+            "describe": "自定义皮肤生成壁纸",
+            "type": "[工具]",
+            "url": "http://minecraft.novaskin.me/wallpapers/mobile"
+        },
+        {
+            "icon": "",
+            "name": "Minecraft Skin Search",
+            "describe": "一个根据用户名查询皮肤的网站",
+            "type": "[工具]",
+            "url": "https://mcskinsearch.com"
+        },
+        {
+            "icon": "",
+            "name": "Microsoft MakeCode for Minecraft",
+            "describe": "微软MakeCode项目的MC版，代码制作器",
+            "type": "[工具]",
+            "url": "https://minecraft.makecode.com"
+        },
+        {
+            "icon": "",
+            "name": "Minecraft Servers",
+            "describe": "国外较为有名的服务器列表站",
+            "type": "[工具]",
+            "url": "https://minecraftservers.org"
+        },
+        {
+            "icon": "",
+            "name": "Minecraft Heads",
+            "describe": "MC装饰头颅收集站",
+            "type": "[工具]",
+            "url": "https://minecraft-heads.com"
+        },
+        {
+            "icon": "",
+            "name": "MCRMB",
+            "describe": "自动处理服务器捐助",
+            "type": "[工具]",
+            "url": "http://www.mcrmb.com"
+        },
+        {
+            "icon": "",
+            "name": "MinecraftTools",
+            "describe": "各种MC工具合集",
+            "type": "[工具]",
+            "url": "https://minecraft.tools"
+        },
+        {
+            "icon": "",
+            "name": "GetBukkit",
+            "describe": "快捷获取Bukkit及Spigot",
+            "type": "[工具]",
+            "url": "https://getbukkit.org"
+        },
+        {
+            "icon": "",
+            "name": "2M短域名",
+            "describe": "公益、免费、简单的Minecraft短域名获取工具",
+            "type": "[工具]",
+            "url": "https://2m.pub"
+        },
+        {
+            "icon": "",
+            "name": "TextCraft",
+            "describe": "MC风格文字Logo生成网站",
+            "type": "[工具]",
+            "url": "https://textcraft.net"
+        },
+        {
+            "icon": "",
+            "name": "Spritecraft",
+            "describe": "生成像素画",
+            "type": "[工具]",
+            "url": "https://autosaved.org/Spritecraft"
+        },
+        {
+            "icon": "",
+            "name": "PocketMine Tools",
+            "describe": "支持打包解包、API注入、Poggit检索等各种各样PM功能！",
+            "type": "[工具]",
+            "url": "https://pmt.nathfreder.dev"
+        },
+        {
+            "icon": "",
+            "name": "PHAR 在线存档",
+            "describe": "在线phar打包解包服务",
+            "type": "[工具]",
+            "url": "https://phar.scer.io"
+        },
+        {
+            "icon": "",
+            "name": "Pixilart",
+            "describe": "在线像素画工具",
+            "type": "[工具]",
+            "url": "https://www.pixilart.com"
+        },
+        {
+            "icon": "",
+            "name": "MapartCraft",
+            "describe": "像素画生成器",
+            "type": "[工具]",
+            "url": "https://rebane2001.com/mapartcraft/zh-Hans"
+        },
+        {
+            "icon": "",
+            "name": "LittleSkin",
+            "describe": "精致易用的皮肤站",
+            "type": "[工具]",
+            "url": "https://mcskin.littleservice.cn"
+        },
+        {
+            "icon": "",
+            "name": "Eaglercraft 反编译网页版Minecraft",
+            "describe": "反编译JE1.5.2版本实现的网页版MC",
+            "type": "[工具]",
+            "url": "https://g.eags.us/eaglercraft/"
+        },
+        {
+            "icon": "",
+            "name": "Chunker",
+            "describe": "最好的在线存档格式转换网站",
+            "type": "[工具]",
+            "url": "https://chunker.app"
+        },
+        {
+            "icon": "",
+            "name": "Colorize FUN",
+            "describe": "Minecraft像素风格多彩文本生成器",
+            "type": "[工具]",
+            "url": "https://colorize.fun/minecraft"
+        },
+        {
+            "icon": "",
+            "name": "BedRock Dev",
+            "describe": "一个简洁好用的Minecraft基岩版中文文档站",
+            "type": "[工具]",
+            "url": "https://bedrock.dev"
+        },
+        {
+            "icon": "",
+            "name": "BlocklyNukkit",
+            "describe": "高效、强大的MCBE创意开发框架",
+            "type": "[工具]",
+            "url": "https://wiki.blocklynukkit.com"
+        },
+        {
+            "icon": "",
+            "name": "BlackBE",
+            "describe": "我的世界基岩版云黑系统",
+            "type": "[工具]",
+            "url": "https://blackbe.xyz/
+            "
+        },
+        {
+            "icon": "",
+            "name": "flags.sh",
+            "describe": "为你的 Java 版服务器生成启动脚本。",
+            "type": "[工具]",
+            "url": "https://flags.sh.cn/"
+        },
+        {
+            "icon": "",
+            "name": "Minecraft Skin Editor",
+            "describe": "简洁易用的在线皮肤编辑器！",
+            "type": "[工具]",
+            "url": "https://minecraft-skin-editor.com/cn"
+        },
+        {
+            "icon": "",
+            "name": "Aternos 免费服务器",
+            "describe": "一个制作服务器的服务器，有点卡，只有性能好的人才能承受",
+            "type": "[工具]",
+            "url": "https://aternos.org/:zh-CN"
+        },
+        {
+            "icon": "",
+            "name": "MC Map Item Tool",
+            "describe": "通过地图来实现在我的世界中的自定义图片！",
+            "type": "[工具]",
+            "url": "https://mc-map.djfun.de"
+        },
+        {
+            "icon": "",
+            "name": "史莱姆区块查找",
+            "describe": "还在为找不到史莱姆区块烦恼？这个网站为你解决问题!",
+            "type": "[工具]",
+            "url": "https://mclt.cn/"
+        },
+        {
+            "icon": "",
+            "name": "UUID生成器",
+            "describe": "一款简单好用的UUID 生成器。",
+            "type": "[工具]",
+            "url": "https://uuid.yunser.com/gen"
+        },
+        {
+            "icon": "",
+            "name": "MCBEID表",
+            "describe": "一款可以查询 Minecraft 基岩版命令相关ID的网站",
+            "type": "[工具]",
+            "url": "https://ca.projectxero.top/idlist"
+        }
+    ]
+}

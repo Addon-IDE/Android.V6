@@ -1,0 +1,10 @@
+[
+    {
+        "name": "原版音效",
+        "path": "sound_definitions.json"
+    },
+    {
+        "name": "原版音乐",
+        "path": "music_definitions.json"
+    }
+]

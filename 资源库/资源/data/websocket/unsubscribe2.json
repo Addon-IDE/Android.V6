@@ -1,0 +1,11 @@
+{
+	"body": {
+		"eventName": "%eventName"
+	},
+	"header": {
+		"requestId": "00000000-0000-0000-0000-000000000000",
+		"messagePurpose": "unsubscribe",
+		"version": 1,
+		"messageType": "commandRequest"
+	}
+}
