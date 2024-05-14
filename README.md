@@ -6,6 +6,8 @@
 
 下载 `.tsp` 文件：[123云盘](https://www.123pan.com/s/vhjA-SFPsH.html)
 
+加入QQ群：[1027458419](https://qm.qq.com/q/NWqz2YGAqQ)
+
 ---
 
 结绳 开发
